@@ -46,7 +46,7 @@ Comparison of training vs validation loss to show overfitting and underfitting.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - TensorFlow / Keras
 - NumPy
