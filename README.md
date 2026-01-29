@@ -1,4 +1,3 @@
-# cnn-training-dynamics
 # CNN Training Dynamics: Gradients, Regularization & Transfer Learning
 
 ## Project Overview
